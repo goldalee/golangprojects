@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/goldalee/golangprojects/pkg/handlers"
+	"github.com/goldalee/golangprojects/GoWebDev/pkg/handlers"
 )
 
 const portNumber = ":8080"
