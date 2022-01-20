@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/goldalee/golangprojects/pkg/render"
+	"github.com/goldalee/golangprojects/GoWebDev/pkg/render"
 )
 
 // Home is the handler for the home page
