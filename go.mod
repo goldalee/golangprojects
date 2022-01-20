@@ -1,3 +1,3 @@
-module github.com/goldalee/golangprojects/GoWebDev
+module github.com/goldalee/golangprojects
 
 go 1.17
